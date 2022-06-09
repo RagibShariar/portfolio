@@ -170,6 +170,14 @@
   color: var(--light);
 }
 
+.portfolio-img {
+  width: 500px;
+  max-height: 300px;
+}
+.portfolio-img img {
+  max-width: 100%;
+}
+
 .portfolio-item .portfolio-btn {
   position: absolute;
   width: 0;
